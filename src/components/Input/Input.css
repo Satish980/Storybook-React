@@ -1,0 +1,9 @@
+.input {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+.medium{width:80%; color:orange}
+.small{width: 30%; color: greenyellow;}
+.large{width: 100%; color: red;}
